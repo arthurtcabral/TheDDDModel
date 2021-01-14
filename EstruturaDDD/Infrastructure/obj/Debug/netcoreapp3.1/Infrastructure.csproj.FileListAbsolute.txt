@@ -1,0 +1,14 @@
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\EstruturaDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\EstruturaDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\EstruturaDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\EstruturaDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\EstruturaDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\EstruturaDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\EstruturaDDD\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\EstruturaDDD\Infrastructure\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\EstruturaDDD\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\EstruturaDDD\Infrastructure\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\EstruturaDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\EstruturaDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\EstruturaDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\EstruturaDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

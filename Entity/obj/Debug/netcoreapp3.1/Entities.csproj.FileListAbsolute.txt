@@ -1,0 +1,17 @@
+C:\Projetos\CWI\Líder de Engenharia\Entity\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Projetos\CWI\Líder de Engenharia\Entity\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Projetos\CWI\Líder de Engenharia\Entity\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Projetos\CWI\Líder de Engenharia\Entity\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Projetos\CWI\Líder de Engenharia\Entity\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Projetos\CWI\Líder de Engenharia\Entity\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Projetos\CWI\Líder de Engenharia\Entity\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Projetos\CWI\Líder de Engenharia\Entity\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\Entity\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\Entity\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\Entity\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\Entity\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\Entity\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\Entity\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\Entity\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\Entity\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Projetos\CWI\Líder de Engenharia\EstruturaDDD\Entity\obj\Debug\netcoreapp3.1\Entities.pdb

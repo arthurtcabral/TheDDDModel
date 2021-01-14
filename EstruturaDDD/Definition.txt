@@ -1,0 +1,2 @@
+O projeto de aplicação tem como objetivo conectar a apresentação ao domínio, disponibilizando apenas os métodos e interfaces
+que a apresentação irá utilizar.
